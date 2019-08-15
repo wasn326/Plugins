@@ -1,0 +1,7 @@
+name: Lobby System
+version: 1.0
+author: K1ngMagmar
+main: de.k1ngmagmar.iteminv.main.Main
+commands:
+   help:
+      description:
